@@ -48,5 +48,5 @@ python password_checker.py
 
 💻 Example Output
 ![output](https://github.com/qadir1991/Password-Strength-Meter-Python-/blob/4b9071343b957853d430149d49f22a22a9b7dbb7/Screenshot%20(127).png)
-![output]()
+![output](https://github.com/qadir1991/Password-Strength-Meter-Python-/blob/cfe483d4b22981ad5131c9a7186b41a81a3c65a5/Screenshot%20(128).png)
 ![output]()
