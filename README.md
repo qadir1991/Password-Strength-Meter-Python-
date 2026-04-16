@@ -1,4 +1,5 @@
 🔐 Password Strength Meter (Python)
+
 📌 Description
 
 This is a simple Python-based Password Strength Meter that checks whether a password is strong, medium, or weak.
@@ -46,3 +47,6 @@ Run the script:
 python password_checker.py
 
 💻 Example Output
+![output]()
+![output]()
+![output]()
