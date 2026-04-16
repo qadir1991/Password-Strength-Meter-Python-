@@ -36,7 +36,7 @@ Python 3.x
 
 Clone the repository:
 
-git clone https://github.com/your-username/password-strength-meter.git
+git clone https://github.com/qadir1991/Password-Strength-Meter-Python-.git
 
 Go to project folder:
 
